@@ -1,0 +1,9 @@
+client/node_modules/
+client/build/
+client/.env
+server/node_modules/
+server/build/
+server/.env
+worker/node_modules/
+worker/build/
+# Logs
